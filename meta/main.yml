@@ -25,7 +25,7 @@ galaxy_info:
     - miniconda
 
 dependencies:
-  - src: andrewrothstein.bash
+  - src: https://github.com/andrewrothstein/ansible-bash.git
     version: v1.1.2
-  - src: andrewrothstein.unarchive-deps
+  - src: https://github.com/andrewrothstein/ansible-unarchive-deps.git
     version: v1.0.11
